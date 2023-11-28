@@ -1,4 +1,4 @@
-# Finance-projects
+# Portfolio Optimization using MV method (Theory)
 <img align="right" alt="Coding" width="400" src="https://d1rwhvwstyk9gu.cloudfront.net/2020/01/Portfolio-Optimization-Methods.png">
 While investing in equity markets (stock markets), we often diversify our investments in different stocks to maximize our returns. When investing in multiple stocks, determining the optimal allocation of funds to each stock to minimize risk and maximize returns can be challenging. However, with the help of the portfolio optimization method, we can overcome this issue.
 What is Portfolio Optimization?
